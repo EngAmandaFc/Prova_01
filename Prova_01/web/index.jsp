@@ -41,6 +41,6 @@
         <h2 style="color:lightslategray;"><a href="disciplina.jsp">Disciplinas cursadas:  <%= disciplinaList.size()%></a></h2>
          <br>
         <br>
-        <p><a href="index.jsp">Voltar para o início</a></p>
+        
     </body>
 </html>
